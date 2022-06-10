@@ -1,7 +1,7 @@
 Olá! Eu sou Ana Beatriz Braga👋
 
 - 👩‍🎓 Eu atualmente faço faculdade de Análise e Desenvolvimento de Sistemas;
-- 💻 Estou me especializando em Front End;
+- 💻 Estou me especializando em front-end com React js;
 - 🏅 Gosto de desafios, pois sempre aprendo bastante com eles;
 - 😄 Sou extremamente dedicada em tudo que eu faço;
 - 💼 Estou a procura de um emprego ou um estágio na área;

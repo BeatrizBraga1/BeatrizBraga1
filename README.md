@@ -1,10 +1,9 @@
 Olá! Eu sou Ana Beatriz Braga👋
 
 - 👩‍🎓 Eu atualmente faço faculdade de Análise e Desenvolvimento de Sistemas;
-- 💻 Estou me especializando em front-end com React js;
+- 💻 Sou Dev júnior Front End a 10 meses;
 - 🏅 Gosto de desafios, pois sempre aprendo bastante com eles;
 - 😄 Sou extremamente dedicada em tudo que eu faço;
-- 💼 Estou a procura de um emprego ou um estágio na área;
 - 📞 Contate-me no email: anabeatrizssb16@gmail.com
 
 

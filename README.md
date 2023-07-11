@@ -1,7 +1,7 @@
 Olá! Eu sou Ana Beatriz Braga👋
 
 - 👩‍🎓 Eu atualmente faço faculdade de Análise e Desenvolvimento de Sistemas;
-- 💻 Sou Desenvolvedora front-end a 1 ano;
+- 💻 Sou Desenvolvedora front-end a 1 ano e 3 meses;
 - 💼 Atualmente trabalho na Aquarium Tech;
 - 🏅 Gosto de desafios, pois sempre aprendo bastante com eles;
 - 😄 Sou extremamente dedicada em tudo que eu faço;

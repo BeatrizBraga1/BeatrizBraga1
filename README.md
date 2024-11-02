@@ -1,8 +1,8 @@
 Olá! Eu sou Ana Beatriz Braga👋
 
-- 👩‍🎓 Eu atualmente faço faculdade de Análise e Desenvolvimento de Sistemas;
-- 💻 Sou Desenvolvedora front-end a 2 ano e 2 meses;
-- 💼 Atualmente trabalho na Positiva Social;
+- 👩‍🎓 Eu sou formada em Análise e Desenvolvimento de Sistemas;
+- 💻 Sou Desenvolvedora front-end a 3 ano e 2 meses;
+- 💼 Atualmente trabalho na Sankhya Gestão de Negócios;
 - 🏅 Gosto de desafios, pois sempre aprendo bastante com eles;
 - 😄 Sou extremamente dedicada em tudo que eu faço;
 - 📞 Contate-me no email: anabeatrizssb16@gmail.com
